@@ -17,7 +17,7 @@ $(document).ready(function()
     var audio3 = new Audio("https://s3.amazonaws.com/freecodecamp/simonSound3.mp3");
     var audio4 = new Audio("https://s3.amazonaws.com/freecodecamp/simonSound4.mp3");
     var audioError = new Audio("http://soundbible.com/grab.php?id=1204&type=mp3");
-    audioError.playbackRate = 2.5;
+    audioError.playbackRate = 4;
 
     // On/off switch.
     $(".switchSpace").click(function()
