@@ -13,5 +13,5 @@ The user can also play in strict mode where if they get a button press wrong, th
 and the game restarts at a new random series of button presses. The user can win the game by getting a series of 20 steps
 correct. The user is notified of victory by the letter "W" showing at the counter, then the game is over.
 
-This game can be viewed at https://codepen.io/derbergfex/full/KZajxQ/
+This game can be viewed at http://simongame2017.surge.sh/
 
